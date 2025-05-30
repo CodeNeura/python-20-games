@@ -4,10 +4,9 @@ A collection of 20 popular games recreated in Python using Pygame and Tkinter.
 
 
 
-## 👨‍💻 Developer
+## 👨‍💻 Developed By
 
-**Usama Ejaz**  
-GitHub: [CodeNeura](https://github.com/CodeNeura)
+[CodeNeura](https://github.com/CodeNeura)
 
 ---
 
