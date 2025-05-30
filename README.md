@@ -2,7 +2,7 @@
 
 A collection of 20 popular games recreated in Python using Pygame and Tkinter.
 
----
+
 
 ## 👨‍💻 Developer
 
@@ -11,38 +11,53 @@ GitHub: [CodeNeura](https://github.com/CodeNeura)
 
 ---
 
-## 🎬 Demo Video
 
-
-👉 **Watch the demo of all 20 games in action:**  
-[🎥 Watch Demo Video on YouTube](https://youtu.be/6fc6LQjhnR8)
-
----
 
 ## 🕹️ Games Included
 
 Here’s the list of games included in this repository:
 
-1. Color Matching  
-2. Typing Game  
-3. Snack Game  
-4. Tic Tac Toe  
-5. Ludo Game  
-6. Car Game  
-7. Pacman Game  
-8. Cannonball Game  
-9. Flappy Game  
-10. Memory Game  
-11. Connect Game  
-12. Pong Game  
-13. Tiles Game  
-14. Tron Game  
-15. Maze Game  
-16. Fidget Game  
-17. Contra Game  
-18. Tetris Game  
-19. Cosmic Heat Game  
-20. PyShooter Game
+1.🎨 Color Matching
+
+2.⌨️ Typing Game
+
+3.🐍 Snack Game (Snake)
+
+4.❌⭕ Tic Tac Toe
+
+5.🎲 Ludo Game
+
+6.🚗 Car Game
+
+7.👻 Pacman Game
+
+8.💣 Cannonball Game
+
+9.🐤 Flappy Game
+
+10.🧠 Memory Game
+
+11.🔗 Connect Game
+
+12.🏓 Pong Game
+
+13.🧱 Tiles Game
+
+14.⚡ Tron Game
+
+15.🔍 Maze Game
+
+16.🔄 Fidget Game
+
+17.🎮 Contra Game
+
+18.🧩 Tetris Game
+
+19.🌌 Cosmic Heat Game
+
+20.🔫 PyShooter Game
+
+
 
 ---
 
@@ -54,19 +69,21 @@ Here’s the list of games included in this repository:
    pip install pygame
 
 📦 Dependencies
-Python 3.x
+To run these games, make sure you have the following installed:
 
-Pygame
+✅ Python 3.x (Recommended: Python 3.7 or higher)
 
-Tkinter (usually preinstalled with Python)
+🎮 Pygame (Install via: pip install pygame)
 
-⭐ Support
-If you like this project:
+🧰 Tkinter (Usually comes pre-installed with Python)
 
-Give it a ⭐ star
+⭐ Support This Project
+If you found this project useful or inspiring:
 
-Follow CodeNeura
+⭐ Star this repository
 
-Share with friends
+🧑‍💻 Follow CodeNeura for more cool projects
 
-© 2025 Code Neura  – All rights reserved.
+🔗 Share it with fellow Python and game dev enthusiasts
+
+© 2025 Code Neura – All rights reserved.
